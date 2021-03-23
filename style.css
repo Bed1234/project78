@@ -1,0 +1,29 @@
+h1{
+    color:orange;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    color:black;
+    background-color:yellow;
+    border-radius:20px;
+    border-color:brown;
+    height:30px;
+    width: 80px;
+}
+#album{
+    height:600px;
+    width:500px;
+    border-style:solid;
+    border-color:#212121;
+     border:1px;
+     border-radius:80px;
+     padding:5px;
+    
+  }
+  #p{
+    font-family:small-caps;
+    text-align:center;
+    font-size:80px;
+    
+  }
+ 
